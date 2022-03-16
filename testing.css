@@ -4079,9 +4079,11 @@ h2.with-project-number, .h2.with-project-number {
       margin-left: -4rem; } }
 
 .link-like-text {
-  color: #333333; }
+  color: #333333;
+  color: #090979;}
   .link-like-text:hover {
-    color: #333333; }
+    color: #090979;
+    }
 
 .btn {
   -webkit-transition: all 0.2s linear;
